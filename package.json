@@ -1,0 +1,21 @@
+{
+    "name": "tretton37",
+    "displayName": "tretton37 Theme",
+    "description": "tretton37 theme for VS Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.34.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "tretton37",
+                "uiTheme": "vs-dark",
+                "path": "./themes/tretton37-color-theme.json"
+            }
+        ]
+    }
+}
