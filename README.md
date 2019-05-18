@@ -1,13 +1,14 @@
-# README
-## This is the README for your extension "tretton37 Theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# tretton37 theme for VS Code
+A dark VS Code theme inspired by the colors of tretton37. 
+This theme is made primarily made for ninjas at tretton37. 
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+![Screenshot](https://github.com/Crustan/tretton37-theme-vscode/raw/master/images/tretton37-vscode.png "Theme Preview")
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### Installation
+Download via VS Code Extension tab or via [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=crustan.tretton37)
 
-**Enjoy!**
+In VS Code, launch Quick Open (Mac: ⌘P, Windows/Linux: Ctrl+P) and enter tretton37.
+Pick the one named **tretton37 Theme** by **crustan**.  
+
+### Contributing
+Report issues at [Github Issues](https://github.com/Crustan/tretton37-theme-vscode/issues).

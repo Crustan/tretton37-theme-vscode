@@ -2,13 +2,32 @@
     "name": "tretton37",
     "displayName": "tretton37 Theme",
     "description": "tretton37 theme for VS Code",
+    "publisher": "crustan",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Crustan/tretton37-theme-vscode"
+    },
+    "bugs": {
+        "email": "christian.soderberg@tretton37.com",
+        "url": "https://github.com/Crustan/tretton37-theme-vscode/issues"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.34.0"
     },
+    "keywords": [
+        "tretton37",
+        "VS Code",
+        "theme"
+    ],
     "categories": [
         "Themes"
     ],
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#002b55",
+        "theme": "dark"
+    },
     "contributes": {
         "themes": [
             {
